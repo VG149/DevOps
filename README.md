@@ -7,4 +7,4 @@ O repositório vai ser utilizado para a criação de atividades da materia de De
 * Ex *
 *** EX ***
 ### Curiosidade
-> Os limões foram feitos por homens não pela natureza, então a vida não te da limões, você mesmo os faz e os espreme nos olhos de alguem
+> Os limões foram feitos pelos seres humanos, então a vida não te da limões, você mesmo os faz e os espreme nos olhos de alguem
